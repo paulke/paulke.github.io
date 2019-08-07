@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://paulke.github.io</id>
-    <title>Gridea</title>
-    <updated>2019-08-07T09:57:59.932Z</updated>
+    <title>碎言碎语</title>
+    <updated>2019-08-07T09:59:46.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://paulke.github.io"/>
     <link rel="self" href="https://paulke.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
+    <subtitle>你以为的不一定是你以为的</subtitle>
     <logo>https://paulke.github.io/images/avatar.png</logo>
     <icon>https://paulke.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2019, Gridea</rights>
+    <rights>All rights reserved 2019, 碎言碎语</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://paulke.github.io/post/hello-gridea</id>
